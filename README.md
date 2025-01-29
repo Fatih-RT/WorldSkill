@@ -6,7 +6,9 @@ Ce projet a été réalisé dans le cadre de la **SAE 501** en **BUT3** et consi
 
 L'objectif principal est d'implémenter une architecture réseau basée sur **LAN/WAN**, des **services Active Directory**, de la **virtualisation**, du **pare-feu**, du **VPN**, de la **gestion des VLANs** et bien plus.
 
-![Logo WorldSkills](https://www.worldskills-france.org/app/uploads/2023/04/317329546_514507990716543_5491866302264516748_n.jpg)
+<p align="center">
+  <img src="https://www.worldskills-france.org/app/uploads/2023/04/317329546_514507990716543_5491866302264516748_n.jpg" alt="Logo WorldSkills" width="250">
+</p>
 
 ---
 
@@ -45,6 +47,18 @@ L'objectif principal est d'implémenter une architecture réseau basée sur **LA
 - **DNSSRV** : Serveur DNS public et autorité de certification.
 - **INETSRV** : Serveur web et FTP sécurisé.
 
+---
+
+## 🗺️ Schémas du projet
+
+<p align="center">
+  <img src="Woldskill/Physical - Simplified.drawio.png" alt="Schéma Simplifié de la couche physique" width="250">
+  <img src="https://www.worldskills-france.org/app/uploads/2023/04/317329546_514507990716543_5491866302264516748_n.jpg" alt="Logo WorldSkills" width="250">
+  <img src="https://www.worldskills-france.org/app/uploads/2023/04/317329546_514507990716543_5491866302264516748_n.jpg" alt="Logo WorldSkills" width="250">
+  <img src="https://www.worldskills-france.org/app/uploads/2023/04/317329546_514507990716543_5491866302264516748_n.jpg" alt="Logo WorldSkills" width="250">
+  <img src="https://www.worldskills-france.org/app/uploads/2023/04/317329546_514507990716543_5491866302264516748_n.jpg" alt="Logo WorldSkills" width="250">
+  <img src="https://www.worldskills-france.org/app/uploads/2023/04/317329546_514507990716543_5491866302264516748_n.jpg" alt="Logo WorldSkills" width="250">
+</p>
 
 ---
 

@@ -6,7 +6,7 @@ Ce projet a été réalisé dans le cadre de la **SAE 501** en **BUT3** et consi
 
 L'objectif principal est d'implémenter une architecture réseau basée sur **LAN/WAN**, des **services Active Directory**, de la **virtualisation**, du **pare-feu**, du **VPN**, de la **gestion des VLANs** et bien plus.
 
-![Logo WorldSkills]([https://upload.wikimedia.org/wikipedia/commons/3/3d/Worldskills_logo.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.worldskills-france.org%2Fla-competition%2Fworldskills-lyon-2024%2F&psig=AOvVaw3Y2q3rewQNQ9wS_0dwt5A4&ust=1738259812455000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOC018bAm4sDFQAAAAAdAAAAABAE))
+![Logo WorldSkills](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.worldskills-france.org%2Fla-competition%2Fworldskills-lyon-2024%2F&psig=AOvVaw3Y2q3rewQNQ9wS_0dwt5A4&ust=1738259812455000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOC018bAm4sDFQAAAAAdAAAAABAE)
 
 ---
 

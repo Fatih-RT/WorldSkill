@@ -52,19 +52,24 @@ L'objectif principal est d'implémenter une architecture réseau basée sur **LA
 ## 🗺️ Schémas du projet
 
 <p align="center">
-  <img src="Woldskill/Physical - Simplified.drawio.png" alt="Schéma Simplifié de la couche physique" width="250">
-  <img src="https://www.worldskills-france.org/app/uploads/2023/04/317329546_514507990716543_5491866302264516748_n.jpg" alt="Logo WorldSkills" width="250">
-  <img src="https://www.worldskills-france.org/app/uploads/2023/04/317329546_514507990716543_5491866302264516748_n.jpg" alt="Logo WorldSkills" width="250">
-  <img src="https://www.worldskills-france.org/app/uploads/2023/04/317329546_514507990716543_5491866302264516748_n.jpg" alt="Logo WorldSkills" width="250">
-  <img src="https://www.worldskills-france.org/app/uploads/2023/04/317329546_514507990716543_5491866302264516748_n.jpg" alt="Logo WorldSkills" width="250">
-  <img src="https://www.worldskills-france.org/app/uploads/2023/04/317329546_514507990716543_5491866302264516748_n.jpg" alt="Logo WorldSkills" width="250">
+  <img src="Document/Physical - Simplified.drawio.png" alt="Schéma Simplifié de la couche physique" width="250">
+  <img src="Document/Physical - Detailled.drawio.png" alt="Schéma Détaillé de la couche physique" width="250">
+  <img src="Document/Logical - Routing.drawio.png" alt="Schéma du Routage de la couche logique" width="250">
+  <img src="Document/Logical - Layer 3.drawio.png" alt="Schéma du Layer 3" width="250">
+  <img src="Document/Logical - Layer 2.drawio.png" alt="Schéma du Layer 2" width="250">
+  <img src="Document/DNS.drawio.png" alt="Schéma des DNS" width="250">  
 </p>
 
 ---
 
 ## 📢 Contact
 
+
+
 📝 Auteur : Fatih KILIC
-📧 Contact : [contact@fatih-kilic.fr](mailto:contact@fatih-kilic.fr)  
+
+📧 Contact : [contact@fatih-kilic.fr](mailto:contact@fatih-kilic.fr)
+
 🌍 Portfolio : [portfolio.fatih-kilic.fr](portfolio.fatih-kilic.fr)
+
 📌 Projet réalisé dans le cadre du **BUT3 - SAE 501**

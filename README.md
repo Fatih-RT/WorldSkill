@@ -6,6 +6,8 @@ Ce projet a été réalisé dans le cadre de la **SAE 501** en **BUT3** et consi
 
 L'objectif principal est d'implémenter une architecture réseau basée sur **LAN/WAN**, des **services Active Directory**, de la **virtualisation**, du **pare-feu**, du **VPN**, de la **gestion des VLANs** et bien plus.
 
+![Logo WorldSkills](https://upload.wikimedia.org/wikipedia/commons/3/3d/Worldskills_logo.svg)
+
 ---
 
 ## 🚀 Objectifs du Projet

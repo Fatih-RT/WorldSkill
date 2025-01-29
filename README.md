@@ -1,4 +1,4 @@
-# SAE 501 - Infrastructure Réseau et Services IT
+# SAE 501 - Infrastructure Réseau et Services IT pour les WorldSkills
 
 ## 📖 Description
 
